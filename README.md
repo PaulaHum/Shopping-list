@@ -32,6 +32,8 @@ Welcome to the **Online Shopping List** project! 🌟 This project is a simple, 
    - Remove items by clicking the delete icon next to each item.
   
 ## 📸 Screenshot
+<img width="400" alt="Screenshot" src="https://github.com/PaulaHum/Shopping-list-online/assets/156292388/ec64d8c6-a25f-40ab-a044-c3ecd814e08f">
+
 
 ## 💡 Inspiration
 This project was inspired by the need for a simple, user-friendly shopping list application that works offline. It's perfect for anyone who wants to keep track of their shopping needs without relying on a mobile app. 🛍️
