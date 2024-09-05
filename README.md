@@ -1,3 +1,5 @@
+![Gif Banner-2](https://github.com/user-attachments/assets/87f97e24-70bd-455f-b2f7-42f4a7d86cc2)
+
 # 🛒 Online Shopping List
 
 Welcome to the **Online Shopping List** project! 🌟 This project is a simple, yet fun, web application that allows you to manage your shopping list with ease. You can add items you need to buy and remove them once you've got them. No more forgetting your grocery list at home! 📋
@@ -40,7 +42,10 @@ This project was inspired by the need for a simple, user-friendly shopping list 
 
 ## 📜 License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you like. 📄
+<br></br>
+
+![ShoppingListEnd](https://github.com/user-attachments/assets/21a427db-ccd0-4642-9ccb-60860d5ffa54)
 
 
-![Gif Banner-2](https://github.com/user-attachments/assets/87f97e24-70bd-455f-b2f7-42f4a7d86cc2)
+
 
