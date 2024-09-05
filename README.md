@@ -40,3 +40,7 @@ This project was inspired by the need for a simple, user-friendly shopping list 
 
 ## 📜 License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you like. 📄
+
+
+![Gif Banner-2](https://github.com/user-attachments/assets/87f97e24-70bd-455f-b2f7-42f4a7d86cc2)
+
