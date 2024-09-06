@@ -44,7 +44,9 @@ This project was inspired by the need for a simple, user-friendly shopping list 
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you like. 📄
 <br></br>
 
-![ShoppingListEnd](https://github.com/user-attachments/assets/21a427db-ccd0-4642-9ccb-60860d5ffa54)
+![ShoppingListEnd](https://github.com/user-attachments/assets/4e1fd7cf-914c-4ca4-bf21-9a665d17e56e)
+
+
 
 
 
